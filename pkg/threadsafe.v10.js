@@ -617,6 +617,7 @@ delete window;
                         u[e] || (b = a);
                         break
                     }
+                    /*
                 case 41:
                     {
                         let e = f[b++]
@@ -624,6 +625,7 @@ delete window;
                         u[e] && (b = a);
                         break
                     }
+                    */
                 case 67:
                     {
                         let e = d();
