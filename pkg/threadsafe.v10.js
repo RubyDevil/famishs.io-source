@@ -620,7 +620,7 @@ delete window;
                 case 41:
                     {
                         let e = f[b++]
-                          /*, a = d()*/;
+                          , a = d();
                         u[e] && (b = a);
                         break
                     }
