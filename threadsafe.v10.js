@@ -1,7 +1,10 @@
 window.threadSafeO = null;
 
 __globalThis = globalThis;
+__window = window;
+
 delete globalThis;
+delete window;
 
 /** SGkgSlMtQ29kZXIsIEkgYWR2aXNlIHlvdSB0byB0aGluayBiZWZvcmUgeW91IHRyeSB0byBieXBhc3MgdGhlIHByb3RlY3Rpb24sIA== */
 !function() {
@@ -1300,3 +1303,4 @@ delete globalThis;
 }();
 
 globalThis = __globalThis;
+window = __window;
