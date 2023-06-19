@@ -2,7 +2,6 @@
 ```diff
 Current Status:
 - Under Maintenance 
-- Warning: Not Bypassing Anticheat, Use with Caution 
 ```
 ```js
 // ==UserScript==
