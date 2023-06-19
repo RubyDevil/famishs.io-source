@@ -1,7 +1,8 @@
 # Triade Injector
 ```diff
 Current Status:
-- Not Working
++ Working 
+- Warning: Not Bypassing Anticheat, Use with Caution 
 ```
 ```js
 // ==UserScript==
