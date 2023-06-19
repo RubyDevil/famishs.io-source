@@ -1,5 +1,8 @@
 # Triade Injector
-
+```diff
+Current Status:
+- Not Working
+```
 ```js
 // ==UserScript==
 // @name         YourScriptName (Triade Client Injector)
