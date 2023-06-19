@@ -1,7 +1,7 @@
 # Triade Injector
 ```diff
 Current Status:
-- Working [Tested] 
++ Working [Tested] 
 [Updated 3:55 pm Monday, June 19, 2023 (EDT)]
 ```
 ```js
