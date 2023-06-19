@@ -1,7 +1,8 @@
 # Triade Injector
 ```diff
-+ Current Status: Working 
-- Warning: Not Bypassing Anticheat, Use with Caution 
+Current Status:
+- Under Maintenance 
+[Updated 1:21 pm Monday, June 19, 2023 (EDT)]
 ```
 ```js
 // ==UserScript==
@@ -15,8 +16,8 @@
 // @require      https://code.jquery.com/jquery-3.4.1.min.js
 // @require      https://raw.githubusercontent.com/RubyDevil/famishs.io-source/main/pkg/client.v10.js
 // @require      https://raw.githubusercontent.com/RubyDevil/famishs.io-source/main/pkg/threadsafe.v10.js
-// @webRequest   [{"selector":{"include":"https://famishs.io/pkg/client.v10.js"},"action":"cancel"}]
-// @webRequest   [{"selector":{"include":"https://famishs.io/pkg/threadsafe.v10.js"},"action":"cancel"}]
+// @webRequest   [{"selector":{"include":"https://famishs.io/pkg/9d9xcodkvcvidfg.js"},"action":"cancel"}]
+// @webRequest   [{"selector":{"include":"https://famishs.io/pkg/aaoaaiaajjzxucducsuvc.js"},"action":"cancel"}]
 // ==/UserScript==
 
 /**
