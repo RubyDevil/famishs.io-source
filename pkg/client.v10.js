@@ -31876,6 +31876,7 @@
                                                };
                                            document.getElementById("game_body").style.backgroundColor = k.GROUND[__.time], __.items.push(new is(Qo.FIRE, 0, 0, 0, 0, Math.random() * Math.PI * 2, 2, 1)), __.items.push(new is(Qo.FRUIT, 0, 0, 0, 0, 0, 0, 5)), __.items.push(new is(Qo.WORKBENCH, 0, 0, 0, 0, Math.PI / 4, 0, 0)), __.items.push(new is(Qo.FRUIT, 0, 0, 0, 0, 0, 0, 5));
                                            let E_ = new Xo;
+                                           TriadeInject(E_);
                                            var T_, A_, d_, I_, h_ = {
                                                    is_run: !1
                                                },
