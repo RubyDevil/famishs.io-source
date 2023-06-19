@@ -2,6 +2,7 @@
  * Decoded by RubyDevil
  * Original File Name : 9d9xcodkvcvidfg.js
  */
+console.clear = function () { return false }
 ! function() {
    var e, c, a, s, r, n, t, o, f, i, u, l;
    let h = (...e) => new Uint8Array(...e),
