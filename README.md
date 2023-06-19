@@ -1,6 +1,7 @@
 # Triade Injector
 ```diff
-+ Current Status: Working 
+Current Status:
+- Under Maintenance 
 - Warning: Not Bypassing Anticheat, Use with Caution 
 ```
 ```js
