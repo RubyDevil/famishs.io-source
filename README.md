@@ -1,9 +1,10 @@
 # Triade Injector
 ```diff
 Current Status:
-- Under Maintenance 
-[Updated 1:21 pm Monday, June 19, 2023 (EDT)]
+- Patched [Under Maintenance] 
+[Updated 5:26 pm Tuesday, June 20, 2023 (EDT)]
 ```
+The Triade Injector allows you to use the `client` namespace required in many scripts. You can simply make your own script within the function with ease, best for beginners
 ```js
 // ==UserScript==
 // @name         Triade Injector
